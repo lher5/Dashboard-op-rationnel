@@ -20,7 +20,7 @@ Pour réaliser le projet dans les temps, nous avons utilisé la méthodologie ag
 <ins>Images du tableau de bord</ins> :
 
 - Accueil
-  ![Accueil]([https://github.com/alexandreiul/wild_project1/assets/156169040/19221eda-ba9d-4e57-9673-4f4814b7e91f](https://github.com/lher5/Dashboard-op-rationnel/blob/main/Images/Power%20BI%20-%20Accueil.png))
+  ![Accueil](https://github.com/lher5/Dashboard-op-rationnel/blob/main/Images/Power%20BI%20-%20Accueil.png)
 - Finance partie 1
   ![Finance 1](https://github.com/alexandreiul/wild_project1/assets/156169040/b7af29ce-d5e6-4920-8066-7917b30c1110)
 - Finance partie 2
