@@ -22,6 +22,7 @@ Afin de répondre à la demande du client, nous avons tout d'abord explorer les 
 
 
 <ins>Exemple de requête SQL</ins> :
+
   ![Accueil](https://github.com/lher5/Dashboard-op-rationnel/blob/main/Images/Requ%C3%AAte%201.png)
 
 
