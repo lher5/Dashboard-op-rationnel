@@ -1,7 +1,7 @@
 # Tableau de bord opérationnel
 <ins>**Projet 1 : Toys and models**</ins>
 
-<ins>Livrable</ins> : Notre équipe de 3 data analyst est missionnée par une société de vente de maquettes et de modèles réduits. L'entreprise dispose déjà d'une base de données qui répertorie les employés, les produits, les commandes et bien plus encore. Nous sommes invités à parcourir et découvrir cette base de données. Le dirigeant de l'entreprise souhaite disposer d'un tableau de bord qu'il pourra rafraîchir chaque matin pour avoir les dernières informations afin de gérer l'entreprise.
+<ins>Livrable</ins> : Notre équipe de 3 data analyst est missionnée par une société de vente de maquettes et de modèles réduits. L'entreprise dispose déjà d'une base de données qui répertorie les employés, les produits, les commandes et bien plus encore. Nous sommes invités à parcourir et découvrir cette base de données. Le dirigeant de l'entreprise souhaite disposer d'un tableau de bord qu'il pourra rafraîchir chaque matin pour avoir les dernières informations afin de gérer l'entreprise. 
 
 <ins>Objectif</ins> : Notre tableau de bord doit s'articuler autour de 4 thèmes principaux : ventes, finances, logistique et ressources humaines.
 Voici les indicateurs demandés par le client présents dans notre tableau de bord (par rapport à notre exploration de la base de donnée, nous avons décidé de compléter cette liste)
