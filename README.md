@@ -1,7 +1,6 @@
 # Tableau de bord opérationnel
 
-<ins>Livrable</ins> : Nous sommes 2 Data Analysts missionnés par une société de vente de maquettes et de modèles réduits. L'entreprise dispose déjà d'une base de données qui répertorie les employés, les produits, les commandes et bien plus encore. Nous sommes invités à parcourir et découvrir cette base de données. Le dirigeant de l'entreprise souhaite disposer d'un tableau de bord qu'il pourra rafraîchir chaque matin pour avoir les dernières informations afin de gérer l'entreprise. 
-Nous devons également réaliser des requêtes sur MySQL à partir des bases de données fournies.
+<ins>Livrable</ins> : Une société de vente de maquettes et de modèles réduits nous missionne pour réaliser un dashboard de son activité actualisable facilement dans le but de la gérer au mieux. L'entreprise dispose déjà de 8 bases de données qui répertorient les clients, les produits, les commandes entres autres. Nous sommes invités à parcourir et découvrir cette base de données. Nous devons également réaliser des requêtes sur MySQL à partir des bases de données fournies et fournir au dirigeant une tableau de bord pertinent.
 
 <ins>Objectif</ins> : Notre tableau de bord doit s'articuler autour de 4 thèmes principaux : ventes, finances, logistique et ressources humaines.
 Voici les indicateurs demandés par le client présents dans notre tableau de bord (par rapport à notre exploration de la base de donnée, nous avons décidé de compléter cette liste)
