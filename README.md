@@ -21,13 +21,13 @@ Pour réaliser le projet dans les temps, nous avons utilisé la méthodologie ag
 
 - Accueil
   ![Accueil](https://github.com/lher5/Dashboard-op-rationnel/blob/main/Images/Power%20BI%20-%20Accueil.png)
-- Finance partie 1
-  ![Finance 1](https://github.com/alexandreiul/wild_project1/assets/156169040/b7af29ce-d5e6-4920-8066-7917b30c1110)
-- Finance partie 2
-  ![Finance 2](https://github.com/alexandreiul/wild_project1/assets/156169040/7e7f2e1b-552d-4a89-b98a-a9a9111a757e)
+- Ventes - Clients
+  ![Finance 1](https://github.com/lher5/Dashboard-op-rationnel/blob/main/Images/Power%20BI%20-%20Ventes-Clients.png)
+- Ventes - Gammes
+  ![Finance 2](https://github.com/lher5/Dashboard-op-rationnel/blob/main/Images/Power%20BI%20-%20Ventes-Gammes.png)
+- Finances
+  ![Logistique](https://github.com/lher5/Dashboard-op-rationnel/blob/main/Images/Power%20BI%20-%20Finances.png)
 - Logistique
-  ![Logistique](https://github.com/alexandreiul/wild_project1/assets/156169040/8bd0726f-5141-44a7-b4e4-de37bfe4c035)
-- Vente
-  ![Vente](https://github.com/alexandreiul/wild_project1/assets/156169040/694e39d7-9dfb-494e-913f-ebce0863b690)
+  ![Vente](https://github.com/lher5/Dashboard-op-rationnel/blob/main/Images/Power%20BI%20-%20Logistique.png)
 - RH
-  ![RH](https://github.com/alexandreiul/wild_project1/assets/156169040/b12c913c-c3ec-4294-b03e-65365ae747ef)
+  ![RH](https://github.com/lher5/Dashboard-op-rationnel/blob/main/Images/Power%20BI%20-%20RH.png)
