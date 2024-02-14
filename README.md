@@ -1,7 +1,7 @@
 # Tableau de bord opérationnel
-<ins>**Projet 1 : Toys and models**</ins>
 
-<ins>Livrable</ins> : Notre équipe de 3 data analyst est missionnée par une société de vente de maquettes et de modèles réduits. L'entreprise dispose déjà d'une base de données qui répertorie les employés, les produits, les commandes et bien plus encore. Nous sommes invités à parcourir et découvrir cette base de données. Le dirigeant de l'entreprise souhaite disposer d'un tableau de bord qu'il pourra rafraîchir chaque matin pour avoir les dernières informations afin de gérer l'entreprise. 
+<ins>Livrable</ins> : Nous sommes 2 Data Analysts missionnés par une société de vente de maquettes et de modèles réduits. L'entreprise dispose déjà d'une base de données qui répertorie les employés, les produits, les commandes et bien plus encore. Nous sommes invités à parcourir et découvrir cette base de données. Le dirigeant de l'entreprise souhaite disposer d'un tableau de bord qu'il pourra rafraîchir chaque matin pour avoir les dernières informations afin de gérer l'entreprise. 
+Nous devons également réaliser des requêtes sur MySQL à partir des bases de données fournies.
 
 <ins>Objectif</ins> : Notre tableau de bord doit s'articuler autour de 4 thèmes principaux : ventes, finances, logistique et ressources humaines.
 Voici les indicateurs demandés par le client présents dans notre tableau de bord (par rapport à notre exploration de la base de donnée, nous avons décidé de compléter cette liste)
@@ -14,7 +14,15 @@ Voici les indicateurs demandés par le client présents dans notre tableau de bo
 
 <ins>Méthodologie de travail</ins> :
 
-Pour réaliser le projet dans les temps, nous avons utilisé la méthodologie agile SCRUM. Tout d'abord, nous avons décelé les étapes clefs de ce projet. Nous avons scindé ces étapes en tâches que nous avons priorisées et organisées dans un kanban. Cela nous a permis de voir l'état d'avancement du projet. D'une semaine à l'autre nous avions un objectif précis avec des retrospectives en fin de semaine sur les tâches à réaliser sous forme de sprint. Nous avions mis en place des daily et des moments de travail en équipe afin d'améliorer notre productivité, mais aussi, pour ne pas nous écarter de notre but final.
+Pour réaliser le projet dans les temps, nous avons utilisé la méthodologie agile SCRUM. Tout d'abord, nous avons décelé les étapes clefs de ce projet. Nous avons scindé ces étapes en tâches que nous avons priorisées et organisées dans un kanban. Cela nous a permis de voir l'état d'avancement du projet. D'une semaine à l'autre nous avions un objectif précis avec des retrospectives en fin de semaine sur les tâches à réaliser sous forme de sprint. Nous avions mis en place des daily et des moments de travail en équipe afin d'améliorer notre productivité tout en maintenant l'objectif final en vue.
+
+
+<ins>Outils utilisés</ins> :
+Afin de répondre à la demande du client, nous avons tout d'abord explorer les différentes bases de données avec MySQL. Nous avons ensuite créé des requêtes SQL afin de créer des vues et d'optimiser notre travail pour la création d'un tableau de bord sur PowerBi par la suite.
+
+
+<ins>Exemple de requête SQL</ins> :
+  ![Accueil](https://github.com/lher5/Dashboard-op-rationnel/blob/main/Images/Requ%C3%AAte%201.png)
 
 
 <ins>Images du tableau de bord</ins> :
